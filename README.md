@@ -1,5 +1,5 @@
 # Hello, World! 👋
-![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=ifedorov1402&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifedorov1402&layout=compact)](https://github.com/ifedorov1402/github-readme-stats)
 ## I'm Ivan
 
 ### 💻 About Me
