@@ -26,7 +26,7 @@ Open-source projects focused on social impact, educational tools, or anything th
 ### 🤝 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/i-fedorov/)
 - Email: fedorov.ivan@hotmail.com
-
+- Check my resume out here: [Ivan's Resume](https://docs.google.com/document/d/1hzsncwl230JpYfvdQa2O16OcyirlOxVJZptwzibXjpw/edit))
 ---
 
 Feel free to explore my repositories and reach out if you're interested in collaborating on a project or just want to connect!
